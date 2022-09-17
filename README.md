@@ -1,2 +1,2 @@
-# M-HIVE_STM32_drone_programming_course
+# M-HIVE STM32 drone programming course
 Source code for M-HIVE STM32 drone programming from scratch course (STM32CubeIDE)
