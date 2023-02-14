@@ -1,0 +1,16 @@
++++++ M-HIVE Ground Station End User License Agreement V1.0 +++++
+
+1. This software is a GCS for drone video course developed by ChrisP from M-HIVE.
+2. This software follows FC°ÍGCS communication protocol v0.9.1 to communicate with drones.
+3. The purpose of this software is to visually check the state of the drone.
+4. This software is not suitable for data post processing.
+5. This software cannot be sold for a fee or used commercially.
+6. Any problems arising from the use of this software are the responsibility of the user.
+7. This software can be used anywhere for non-commercial purposes.
+8. This software requires Internet connection when using the map function, and costs may be incurred depending on the Internet environment used.
+9. The map used in this software is a Google map provided by Gmap.net and the information on the map may be inaccurate and no political intentions whatsoever.
+
+When using this program, you are deemed to have agreed to the above items.
+Library used: Gmap.net, ZedGraph, BSE.Windows.Forms
+
+Copyright(c) 2020, ChrisP @ M-HIVE
